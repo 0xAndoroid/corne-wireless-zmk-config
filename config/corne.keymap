@@ -28,7 +28,7 @@
 
         BTS1 {
             bindings = <&bt BT_SEL 1>;
-            key-positions = <11 23 35 12 39 2>;
+            key-positions = <11 23 35 12 39 2 24>;
         };
 
         BTS2 {
